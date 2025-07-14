@@ -2,6 +2,7 @@
 title:
 ---
 Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
+![[avi.png]]
 
 ## Previous Public Research
 - [Writing an LPE Exploit For The FiiO M6](https://stigward.github.io/posts/fiio-m6-exploit/) 

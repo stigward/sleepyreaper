@@ -9,10 +9,10 @@ Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, 
 - [AI-Driven Binary Analysis on a TOTOLINK Router - Shooting Bugs-In-A-Barrel](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 
 ## Talks And Videos:
-- [Hacking The FiiO M6 (CVE-2023-30257) - BSidesRDU](https://www.youtube.com/watch?v=Cd_CAYe4M_M&t=463s)
+- [Hacking The FiiO M6 (CVE-2023-30257) - BSidesRDU](https://www.youtube.com/watch?v=Cd_CAYe4M_M&)
 - [Flags To CVEs - Moving From CTFs to Real-World Targets - BSidesDen](https://github.com/stigward/presentations/blob/main/BSidesDenver2024.pdf) (no video)
-- [What Nobody Tells You About Becoming A Vuln Researcher](https://www.youtube.com/watch?v=GFjLIN0Nljo&t=1435s)
-- [Exploiting the Latest Zyxel Vulnerability (CVE-2023-35138)](https://www.youtube.com/watch?v=3Z7qXcwrY9A&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=2&t=953s)
+- [What Nobody Tells You About Becoming A Vuln Researcher](https://www.youtube.com/watch?v=GFjLIN0Nljo)
+- [Exploiting the Latest Zyxel Vulnerability (CVE-2023-35138)](https://www.youtube.com/watch?v=3Z7qXcwrY9A&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=2)
 - [Vuln Research in VIDEO GAMES?!?!](https://www.youtube.com/watch?v=vHocemqpOuo&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=5)
 
 ## Career:

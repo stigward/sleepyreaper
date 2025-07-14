@@ -2,8 +2,6 @@
 title:
 ---
 Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
-![[avi.png]]
-
 ## Previous Public Research
 - [Writing an LPE Exploit For The FiiO M6](https://stigward.github.io/posts/fiio-m6-exploit/) 
 - [Uncovering a 0-Click RCE in the SuperNote Nomad E-ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
@@ -24,3 +22,5 @@ Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, 
 - **Half Marathon**: [1:27:46](https://www.athlinks.com/event/126140/results/Event/1095493/Course/2534546/Bib/455?source=internal) (Gilbert Half Marathon, 2024)
 - **70.3**: [4:56:41](https://www.athlinks.com/event/30712/results/Event/1081524/Course/2477392/Entry/532502687?source=internal)  (70.3 Gulf Coast, 2024)
 - **140.6**:  [11:40:19](https://www.athlinks.com/event/6561/results/Event/1067678/Course/2423613/Entry/519144638?source=internal) (Ironman Arizona, 2023)
+
+![[avi.png]]

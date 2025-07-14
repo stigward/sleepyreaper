@@ -19,7 +19,7 @@ Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, 
 - **Current Position**: Co-Founder and CEO @ [PRIZM Labs](https://prizmlabs.io)
 - **Previous Positions**: Senior Android Vuln Researcher @ [Interrupt Labs](https://www.interruptlabs.co.uk/), Security Researcher @ [Block](https://block.xyz/), Senior Security IoT Engineer @ [Praetorian](https://www.praetorian.com/).
 
-## Current Personal Records:
-- **Half Marathon**: 1:27
-- **70.3**: 4:56:41
-- **140.6**:  11:40:19 
+## Current Endurance Bests:
+- **Half Marathon**: [1:27:46](https://www.athlinks.com/event/126140/results/Event/1095493/Course/2534546/Bib/455?source=internal) (Gilbert Half Marathon, 2024)
+- **70.3**: [4:56:41](https://www.athlinks.com/event/30712/results/Event/1081524/Course/2477392/Entry/532502687?source=internal)  (70.3 Gulf Coast, 2024)
+- **140.6**:  [11:40:19 ](https://www.athlinks.com/event/6561/results/Event/1067678/Course/2423613/Entry/519144638?source=internal) (Ironman Arizona, 2023)

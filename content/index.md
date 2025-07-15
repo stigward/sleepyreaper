@@ -3,6 +3,7 @@ title: whoami
 ---
 Hey - I'm [@\_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
 ![[stiggy.png | 500]]
+I'll be publishing future research here, but here are some links to stuff I've worked on in the past:
 ## Previous Public Research
 - [Writing an LPE Exploit For The FiiO M6](https://stigward.github.io/posts/fiio-m6-exploit/) 
 - [Uncovering a 0-Click RCE in the SuperNote Nomad E-ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)

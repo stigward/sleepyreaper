@@ -2,14 +2,14 @@
 title: whoami
 ---
 
-Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
+Hey - I'm [@\_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
 ![[stiggy.png | 500]]
 ## Previous Public Research
 - [Writing an LPE Exploit For The FiiO M6](https://stigward.github.io/posts/fiio-m6-exploit/) 
 - [Uncovering a 0-Click RCE in the SuperNote Nomad E-ink Tablet](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 - [AI-Driven Binary Analysis on a TOTOLINK Router - Shooting Bugs-In-A-Barrel](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet)
 
-## Talks And Videos:
+## Talks, Videos, And Projects:
 - [Hacking The FiiO M6 (CVE-2023-30257) - BSidesRDU](https://www.youtube.com/watch?v=Cd_CAYe4M_M&)
 - [Flags To CVEs - Moving From CTFs to Real-World Targets - BSidesDen](https://github.com/stigward/presentations/blob/main/BSidesDenver2024.pdf) (no video)
 - [What Nobody Tells You About Becoming A Vuln Researcher](https://www.youtube.com/watch?v=GFjLIN0Nljo)
@@ -19,7 +19,6 @@ Hey - I'm [@_stigward](https://x.com/_stigward), a vuln researcher, triathlete, 
 ## Career:
 - **Current Position**: Co-Founder and CEO @ [PRIZM Labs](https://prizmlabs.io)
 - **Previous Positions**: Senior Android Vuln Researcher @ [Interrupt Labs](https://www.interruptlabs.co.uk/), Security Researcher @ [Block](https://block.xyz/), Senior Security IoT Engineer @ [Praetorian](https://www.praetorian.com/).
-
 ## Current PRs:
 - **Half Marathon**: [1:27:46](https://www.athlinks.com/event/126140/results/Event/1095493/Course/2534546/Bib/455?source=internal) (Gilbert Half Marathon, 2024)
 - **70.3**: [4:56:41](https://www.athlinks.com/event/30712/results/Event/1081524/Course/2477392/Entry/532502687?source=internal)  (70.3 Gulf Coast, 2024)

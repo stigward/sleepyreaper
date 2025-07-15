@@ -3,6 +3,7 @@ title: whoami
 ---
 Hey - I'm [@\_stigward](https://x.com/_stigward), a vuln researcher, triathlete, and student. 
 ![[stiggy.png | 500]]
+
 I'll be publishing future research here, but here are some links to stuff I've worked on in the past:
 ## Previous Public Research
 - [Writing an LPE Exploit For The FiiO M6](https://stigward.github.io/posts/fiio-m6-exploit/) 

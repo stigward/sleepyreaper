@@ -45,6 +45,11 @@ export const defaultContentPageLayout: PageLayout = {
           node.displayName = "📄 " + node.displayName
         }
       },
+      sortFn: (a, b) => {
+        const dateA = a.data?.frontmatter?.date ?? ''
+        const dateB = b.data?.frontmatter?.date ?? ''
+        return dateB.localeCompare(dateA)
+      }
     })
   ],
   right: [

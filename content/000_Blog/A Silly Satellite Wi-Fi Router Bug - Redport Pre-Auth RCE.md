@@ -1,3 +1,10 @@
+---
+tags:
+  - embedded
+  - research
+  - rce
+---
+
 # Overview: 
 A few months ago, I was browsing the strange world of satellite products and services. Most SatTerms and routers have firmware readily available online (such as [here](https://www.viasat.com/customer-service/bgan-firmware/) or [here](https://www.speedcast.com/support-center/firmware/)). While flipping through various websites, I stumbled across [RedPort](https://www.redportglobal.com/), a company recently acquired by [Pulsar International](https://www.pulsarbeyond.com/). I grabbed firmware for their most popular device, the [wXa-223](https://www.mysatphone.com/products/gmn-wxa-223?srsltid=AfmBOoq4aixmEU2tbhIHy4q05xyTclMqOQI412xMzeUV_Bi78kRlDxGM) and was able to unpack it with binwalk. 
 

@@ -38,17 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      sortFn: (a, b) => {
-        if (a.isFolder && !b.isFolder) return -1;
-        if (!a.isFolder && b.isFolder) return 1;
-
-        const dateA = a.data?.dates?.published ?? '';
-        const dateB = b.data?.dates?.published ?? '';
-
-        if (dateA !== dateB) return dateB.localeCompare(dateA);
-        return a.displayName.localeCompare(b.displayName);
-      },
-      order: ["sort"],  // ensure your sort function runs
       mapFn: (node) => {
         if (node.isFolder) {
           node.displayName = "📁 " + node.displayName
@@ -88,7 +77,7 @@ export const defaultListPageLayout: PageLayout = {
           node.displayName = "📄 " + node.displayName
         }
       },
-    })
+   })
   ],
   right: [],
 }

@@ -46,9 +46,21 @@ export const defaultContentPageLayout: PageLayout = {
         }
       },
       sortFn: (a, b) => {
-        const dateA = a.data?.frontmatter?.date ?? ''
-        const dateB = b.data?.frontmatter?.date ?? ''
-        return dateB.localeCompare(dateA)
+        // Folders first, then files
+        if (a.isFolder !== b.isFolder) {
+          return a.isFolder ? -1 : 1
+        }
+        
+        // For files, sort by date (newest first)
+        if (!a.isFolder && a.data?.date && b.data?.date) {
+          return b.data.date.getTime() - a.data.date.getTime()
+        }
+        
+        // Fallback to alphabetical sorting
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
       }
     })
   ],
@@ -83,9 +95,21 @@ export const defaultListPageLayout: PageLayout = {
         }
       },
       sortFn: (a, b) => {
-        const dateA = a.data?.frontmatter?.date ?? ''
-        const dateB = b.data?.frontmatter?.date ?? ''
-        return dateB.localeCompare(dateA)
+        // Folders first, then files
+        if (a.isFolder !== b.isFolder) {
+          return a.isFolder ? -1 : 1
+        }
+        
+        // For files, sort by date (newest first)
+        if (!a.isFolder && a.data?.date && b.data?.date) {
+          return b.data.date.getTime() - a.data.date.getTime()
+        }
+        
+        // Fallback to alphabetical sorting
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
       }
    })
   ],

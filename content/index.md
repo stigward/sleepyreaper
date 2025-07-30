@@ -16,8 +16,8 @@ I'll be publishing future research here, but here are some links to stuff I've w
 - [Exploiting the Latest Zyxel Vulnerability (CVE-2023-35138)](https://www.youtube.com/watch?v=3Z7qXcwrY9A&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=2)
 - [Vuln Research in VIDEO GAMES?!?!](https://www.youtube.com/watch?v=vHocemqpOuo&list=PLt9cUwGw6CYGKTfVThNNL1ie2t21TU2RV&index=5)
 ## Career:
-- **Current Position**: Co-Founder and CEO @ [PRIZM Labs](https://prizmlabs.io)
-- **Previous Positions**: Senior Android Vuln Researcher @ [Interrupt Labs](https://www.interruptlabs.co.uk/), Security Researcher @ [Block](https://block.xyz/), Senior Security IoT Engineer @ [Praetorian](https://www.praetorian.com/).
+- **Current Position**: Principal Security Engineer - Binary Analysis @ [Autonomous Cyber](https://acber.co)
+- **Previous Positions**:  Co-Founder and CEO @ [PRIZM Labs](https://prizmlabs.io), Senior Android Vuln Researcher @ [Interrupt Labs](https://www.interruptlabs.co.uk/), Security Researcher @ [Block](https://block.xyz/), Senior Security IoT Engineer @ [Praetorian](https://www.praetorian.com/).
 ## Current PRs:
 - **Half Marathon**: [1:27:46](https://www.athlinks.com/event/126140/results/Event/1095493/Course/2534546/Bib/455?source=internal) (Gilbert Half Marathon, 2024)
 - **70.3**: [4:56:41](https://www.athlinks.com/event/30712/results/Event/1081524/Course/2477392/Entry/532502687?source=internal)  (70.3 Gulf Coast, 2024)
